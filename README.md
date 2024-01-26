@@ -31,3 +31,8 @@ Create apps with Nuxt (Vue).
 \- REST API  
 \- GraphQL  
 \- RPC
+
+\-\-  
+**📧 Contacts:**  
+E-mail: sergenux@gmail.com  
+Telegram: https://t.me/sergenux
