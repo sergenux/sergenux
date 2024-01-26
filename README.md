@@ -34,5 +34,5 @@ Create apps with Nuxt (Vue).
 
 \-\-  
 **📧 Contacts:**  
-E-mail: sergenux@gmail.com  
-Telegram: https://t.me/sergenux
+E-mail: <sergenux@gmail.com>  
+Telegram: <https://t.me/sergenux>
